@@ -17,7 +17,7 @@
 	</coverage>
 
 	<testsuites>
-		<testsuite name="parsedown">
+		<testsuite name="parsedown-extended">
 			<directory>tests</directory>
 		</testsuite>
 	</testsuites>
